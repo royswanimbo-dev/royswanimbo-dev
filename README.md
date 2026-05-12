@@ -42,4 +42,6 @@ https://royswanimbo.base44.app/
 
 ---
 
-## 📁 Struktur Project
+##collaborate
+<img width="1063" height="588" alt="image" src="https://github.com/user-attachments/assets/612121fb-1857-4306-a6df-f252a57404e5" />
+
