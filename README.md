@@ -1,6 +1,6 @@
 # ⚙️ Roys Wanimbo | Stark Industries Landing Page
 
-<img width="1254" height="1254" alt="waa" src="https://github.com/user-attachments/assets/76307949-c6e6-484b-9c42-5d2bbf2f3fd3" /> 
+<img width="100" height="100" alt="waa" src="https://github.com/user-attachments/assets/76307949-c6e6-484b-9c42-5d2bbf2f3fd3"  /> 
 
 
 Website ini adalah landing page personal bertema **Stark Industries / JARVIS AI Style** yang dibuat dengan HTML, CSS, dan JavaScript. Desainnya modern, futuristik, dan responsif untuk desktop maupun mobile.
