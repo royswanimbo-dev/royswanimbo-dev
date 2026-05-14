@@ -1,50 +1,31 @@
 # ⚙️ Roys Wanimbo | Stark Industries Landing Page
 
-<img width="100" height="100" alt="waa" src="https://github.com/user-attachments/assets/76307949-c6e6-484b-9c42-5d2bbf2f3fd3"  /> 
+<p align="center">
+  <img width="180" height="180" style="border-radius:50%; object-fit:cover; border:4px solid #00f7ff; box-shadow:0 0 25px #00f7ff;" alt="Roys Avatar" src="https://github.com/user-attachments/assets/76307949-c6e6-484b-9c42-5d2bbf2f3fd3" />
+</p>
 
-
-Website ini adalah landing page personal bertema **Stark Industries / JARVIS AI Style** yang dibuat dengan HTML, CSS, dan JavaScript. Desainnya modern, futuristik, dan responsif untuk desktop maupun mobile.
-
----
+Landing page personal bertema **Stark Industries / JARVIS AI** dengan desain futuristik, modern, dan responsive.
 
 ## 🚀 Demo
-👉 Live Website:  
-https://royswanimbo.base44.app/
+👉 [https://royswanimbo.base44.app/](https://royswanimbo-dev.github.io/royswanimbo.io/)
 
----
+## ✨ Fitur
+- ⚡ Typing animation AI Style  
+- 🔥 Loader 3D futuristik  
+- 🌌 Background HUD & particle  
+- 👤 Avatar reactor glow  
+- 📱 Responsive semua device  
+- 🔗 Auto redirect app utama  
 
-## 📸 Tampilan
-- Tema gelap futuristik (Stark / Iron Man inspired)
-- Animasi 3D loader cube
-- Efek radar & HUD
-- Avatar dengan efek reactor
-- Typing animation (JARVIS system style)
-- Klik untuk masuk aplikasi + redirect otomatis
+## 🛠️ Tech Stack
+- HTML5  
+- CSS3  
+- JavaScript
+- Laravel
 
----
+## 🤝 Collaborate
+<p align="center">
+  <img width="100%" style="border-radius:18px; box-shadow:0 0 20px rgba(0,255,255,.3);" alt="Preview Website" src="https://github.com/user-attachments/assets/612121fb-1857-4306-a6df-f252a57404e5" />
+</p>
 
-## ✨ Fitur Utama
-
-- ⚡ Animasi typing text (JARVIS AI style)
-- 🔥 Loader 3D cube futuristik
-- 🌌 Background particle & HUD animation
-- 🧠 Efek "AI System Online"
-- 👤 Profil avatar dengan reactor glow
-- 🖱️ Klik layar untuk masuk aplikasi
-- 📱 Responsive (mobile & desktop)
-- 🔗 Auto redirect ke aplikasi utama
-
----
-
-## 🛠️ Teknologi yang Digunakan
-
-- HTML5
-- CSS3 (Advanced Animation + Keyframes)
-- JavaScript (Typing effect & redirect logic)
-- No framework (pure frontend)
-
----
-
-##collaborate
-<img width="1063" height="588" alt="image" src="https://github.com/user-attachments/assets/612121fb-1857-4306-a6df-f252a57404e5" />
-
+💡 Open for collaboration in **Web Design, Frontend Developer, UI/UX, and Creative Projects**.
