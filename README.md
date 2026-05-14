@@ -1,7 +1,7 @@
 # ⚙️ Roys Wanimbo | Stark Industries Landing Page
 
 <p align="center">
-  <img width="180" height="180" style="border-radius 100%; object-fit:cover; border:5px solid #00f7ff; box-shadow:0 0 25px #00f7ff;" alt="Roys Avatar" src="https://github.com/user-attachments/assets/76307949-c6e6-484b-9c42-5d2bbf2f3fd3" />
+  <img width="180" height="180" alt="Roys Avatar" src="https://github.com/user-attachments/assets/76307949-c6e6-484b-9c42-5d2bbf2f3fd3" />
 </p>
 
 Landing page personal bertema **Stark Industries / JARVIS AI** dengan desain futuristik, modern, dan responsive.
