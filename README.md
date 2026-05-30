@@ -5,7 +5,24 @@
 
   
 </p>
-
+  <h3>Connect with me:</h3>
+  <div class="social-icons">
+    <a href="https://twitter.com/royswanimbo" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40">
+    </a>
+    <a href="https://linkedin.com/in/royswanimbo" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
+    </a>
+    <a href="https://fb.com/royswanimbo" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40">
+    </a>
+    <a href="https://instagram.com/royswanimbo" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40">
+    </a>
+    <a href="https://www.youtube.com/c/royswanimbo" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40">
+    </a>
+  </div>
 Landing page personal bertema **Stark Industries / JARVIS AI** dengan desain futuristik, modern, dan responsive.
 
 ## 🚀 Demo
