@@ -7,19 +7,19 @@
 </p>
   <h3>Connect with me:</h3>
   <div class="social-icons">
-    <a href="https://twitter.com/royswanimbo" target="_blank">
+    <a href="https://x.com/wanimbo79912" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40">
     </a>
-    <a href="https://linkedin.com/in/royswanimbo" target="_blank">
+    <a href="https://id.linkedin.com/in/roys-wanimbo-9518b3331" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
     </a>
-    <a href="https://fb.com/royswanimbo" target="_blank">
+    <a href="https://www.facebook.com/profile.php?id=61572366891756" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40">
     </a>
     <a href="https://www.instagram.com/ulla_chey/" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40">
     </a>
-    <a href="https://www.youtube.com/c/royswanimbo" target="_blank">
+    <a href="https://www.youtube.com/@%C5%A8lla_03" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40">
     </a>
   </div>
